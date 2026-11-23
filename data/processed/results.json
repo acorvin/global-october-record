@@ -136,6 +136,16 @@
         "gap": 0.26,
         "scatter_sd": 0.11,
         "gap_in_sd": 2.3
+      },
+      "RONI_ASO": {
+        "n": 47,
+        "trend_per_decade": 0.24,
+        "oni_coefficient": 0.05,
+        "predicted_2026": 1.25,
+        "actual_2026": 1.55,
+        "gap": 0.3,
+        "scatter_sd": 0.12,
+        "gap_in_sd": 2.5
       }
     },
     "NOAA GlobalTemp": {
@@ -158,6 +168,16 @@
         "gap": 0.15,
         "scatter_sd": 0.11,
         "gap_in_sd": 1.4
+      },
+      "RONI_ASO": {
+        "n": 47,
+        "trend_per_decade": 0.23,
+        "oni_coefficient": 0.05,
+        "predicted_2026": 1.24,
+        "actual_2026": 1.43,
+        "gap": 0.19,
+        "scatter_sd": 0.11,
+        "gap_in_sd": 1.7
       }
     },
     "ERA5": {
@@ -180,10 +200,22 @@
         "gap": 0.15,
         "scatter_sd": 0.13,
         "gap_in_sd": 1.1
+      },
+      "RONI_ASO": {
+        "n": 47,
+        "trend_per_decade": 0.27,
+        "oni_coefficient": 0.04,
+        "predicted_2026": 0.69,
+        "actual_2026": 0.9,
+        "gap": 0.21,
+        "scatter_sd": 0.14,
+        "gap_in_sd": 1.5
       }
     }
   },
   "oni_aso_2026": 2.46,
   "oni_aso_2023": 1.5,
-  "oni_jja_2026": 1.8
+  "oni_jja_2026": 1.8,
+  "roni_aso_2026": 1.97,
+  "roni_aso_2023": 1.04
 }

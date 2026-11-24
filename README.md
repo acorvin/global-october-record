@@ -1,4 +1,4 @@
-# October 2026: Three Datasets, One Record
+# How Far Ahead Was October's Global Heat Record?
 
 How far ahead of the old record three global temperature datasets put October 2026, and how that margin compares with other monthly records and with what a trend and El Niño would predict. The analysis is in [`notebooks/analysis.ipynb`](notebooks/analysis.ipynb).
 
